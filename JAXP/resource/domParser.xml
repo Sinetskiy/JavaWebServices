@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><people>
+    <person id="1" type="2">
+        <name>Ivan</name>
+        
+    <date>2017-12-03</date></person>
+    <person id="2" type="2">
+        <name>Николай</name>
+        
+    <date>2017-12-03</date></person>
+    <person id="3" type="3">
+        <name>David</name>
+        
+    <date>2017-12-03</date></person>
+    <person id="4" type="1">
+        <name>Michele</name>
+        
+    <date>2017-12-03</date></person>
+    <person id="5" type="2">
+        <name>Katya</name>
+        
+    <date>2017-12-03</date></person>
+    <person id="6" type="1">
+        <name>Вася</name>
+        
+    <date>2017-12-03</date></person>
+</people>
